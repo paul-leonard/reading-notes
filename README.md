@@ -13,6 +13,7 @@
 3. The success of others learning new things means that you can learn those things too.
 
 
+
 ---
 ## About Me
 Thank you for visiting page of notes.  I hope they were helpful to you.  Please also check out [my GitHub portfolio page](https://github.com/paul-leonard "Paul's GitHub Portfolio").
