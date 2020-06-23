@@ -9,27 +9,26 @@ Text Editor is a program the developer can use to write code.  Many different te
 
 ##### Options
 There are many options for text editors available.  Some of them include:
--Notepad
--Text Edit
--Gedit
--Atom by GitHub
--NotePad++
--Text Wrangler
--BB Edit
--Visual Studio Code by Microsoft
--Atom
--Brackets by Adobe
--Sublime Text
-
+- Notepad
+- Text Edit
+- Gedit
+- Atom by GitHub
+- NotePad++
+- Text Wrangler
+- BB Edit
+- Visual Studio Code by Microsoft
+- Atom
+- Brackets by Adobe
+- Sublime Text
 
 ##### Considerations for Choosing
-+Code completion - *autocompletes syntax to reduce keystrokes and typos*
-+Syntax highlighting - *greatly improves readability and error recognition*
-+Variety of brightness/contrast themes
-+Selection of extensions/plug-ins - *Example: Emmet increase efficency*
-+References and wikis
-+Zoom features
-+Live preview
++ Code completion - *autocompletes syntax to reduce keystrokes and typos*
++ Syntax highlighting - *greatly improves readability and error recognition*
++ Variety of brightness/contrast themes
++ Selection of extensions/plug-ins - *Example: Emmet increase efficency*
++ References and wikis
++ Zoom features
++ Live preview
 
 ##### The Full Integrated Development Environment (IDE)
 The text editor is a one segment of what combines with other functional software to form the Integrated Development Environment.  The other suplemental software packages include a file manager, a compiler, and a debugger.
