@@ -36,8 +36,14 @@ The text editor is a one segment of what combines with other functional software
 
 #### The Terminal
 
+>Your window into the computer.
+>- Ryan's Tutorial
+
 ##### The Command Line
-The **Command Line Interface** (CLI) is the textual interface for issuing prompts to the computer.  
+The **Command Line Interface** (CLI) is the textual interface for issuing commands to the computer.  The computer prompts the user for an entry.  The user enters a command.  The command can be further modified by using options or arguments.  Options are usually lead by a '-'.  Often, the computer will return outputs following a command.  Other times, the command simply runs a background process. The return of the computer's prompt to the user signifies the completion of the previous command.
+
+A shell is used and determines the display, format, and behavior of the terminal.  Bash is the most common shell and is short for Bourne again shell.
+
 
 ##### Basic Navigation
 
@@ -52,6 +58,9 @@ touch   |   creates new file (ex.  Touch students.txt)
 cd   |   change directory
 cd..   |   back one directory
 cd../..   |   back two directories
+echo   |   use to display a system variable
+up arrow   |   get to previous commands
+down arrow   |   get to more recent commands
 
 
 ##### About Files
