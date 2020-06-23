@@ -37,9 +37,22 @@ The text editor is a one segment of what combines with other functional software
 #### The Terminal
 
 ##### The Command Line
+The **Command Line Interface** (CLI) is the textual interface for issuing prompts to the computer.  
 
 ##### Basic Navigation
-table
+
+
+Here are some basic commands as an example:
+Command   |   Description
+---   |   ---
+pwd   |   present working directory
+ls   |   list
+mkdir   |   make directory
+touch   |   creates new file (ex.  Touch students.txt)
+cd   |   change directory
+cd..   |   back one directory
+cd../..   |   back two directories
+
 
 ##### About Files
 
