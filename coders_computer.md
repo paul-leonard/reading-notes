@@ -7,8 +7,7 @@
 #### Text Editor
 Text Editor is a program the developer can use to write code.  Many different text editors exist and the choice of which one to use depends on personal preference and objective.
 
-##### Options
-There are many options for text editors available.  Some of them include:
+##### Available Text Editors
 - Notepad
 - Text Edit
 - Gedit
@@ -32,6 +31,8 @@ There are many options for text editors available.  Some of them include:
 
 ##### The Full Integrated Development Environment (IDE)
 The text editor is a one segment of what combines with other functional software to form the Integrated Development Environment.  The other suplemental software packages include a file manager, a compiler, and a debugger.
+
+---
 
 #### The Terminal
 
