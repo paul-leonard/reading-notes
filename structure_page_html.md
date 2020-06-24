@@ -2,8 +2,7 @@
 
 ## Code 102
 
-### Class 4:
-### Structure Web Pages with HTML
+### Class 4:  Structure Web Pages with HTML
 
 #### HTML & CSS, Chapter 18:  Process & Design (read)
 
@@ -23,7 +22,7 @@
 
 
 
-[Return to Table of Contents for Paul's Reading Notes](README "Go back to find more notes!")
+[Return to Table of Contents for Paul's Reading Notes](https://paul-leonard.github.io/reading-notes/ "Go back to find more notes!")
 
 ---
 

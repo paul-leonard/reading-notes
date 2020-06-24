@@ -2,10 +2,10 @@
 
 ## Code 102
 
-### Revisions in the Cloud
+### Class 3:  Revisions in the Cloud
 
 
-[Return to Table of Contents for Paul's Reading Notes](README "Go back to find more notes!")
+[Return to Table of Contents for Paul's Reading Notes](https://paul-leonard.github.io/reading-notes/ "Go back to find more notes!")
 
 ---
 

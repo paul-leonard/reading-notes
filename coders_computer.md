@@ -2,7 +2,7 @@
 
 ## Code 102
 
-### The Coder's Computer: Environment for Writing Code
+### Class 2:  The Coder's Computer: Environment for Writing Code
 
 #### Text Editor
 Text Editor is a program the developer can use to write code.  Many different text editors exist and the choice of which one to use depends on personal preference and objective.
@@ -78,7 +78,7 @@ Spaces in file names can cause complications, but there are ways around it.  One
 Hidden Files!  Any file name beginning with '.' hides that file or directory.  The command 'ls' lists all un-hidden items.  To modify that command to show the hidden files as well, write 'ls -a'.
 
 
-[Return to Table of Contents for Paul's Reading Notes](README "Go back to find more notes!")
+[Return to Table of Contents for Paul's Reading Notes](https://paul-leonard.github.io/reading-notes/ "Go back to find more notes!")
 
 ---
 
