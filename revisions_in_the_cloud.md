@@ -66,7 +66,9 @@ Two commands may be helpful in hiding changes until you are ready to work on the
 To collaborate and work on the same code as others, you need to use Remote Repositories.  You can work on multiple repositories at once and can have varying degrees of read/write permission for them.  You pull data from and push data to the remote repositories.  For cloned repositories, the remote source repo is referred to as the "origin" and the cloned local branch is called "master".
 
 
-
+***References***
+The reading material for these notes included the following:
+- [https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
 
 
 
