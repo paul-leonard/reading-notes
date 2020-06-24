@@ -12,7 +12,7 @@
 2. Criticisms and corrections are bits of key information to help you learn how to do things better.
 3. The success of others learning new things means that you can learn those things too.
 
-[Return to Table of Contents for Paul's Reading Notes](README.md "Go back to find more notes!")
+[Return to Table of Contents for Paul's Reading Notes](README "Go back to find more notes!")
 
 ---
 

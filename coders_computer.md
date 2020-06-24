@@ -78,7 +78,7 @@ Spaces in file names can cause complications, but there are ways around it.  One
 Hidden Files!  Any file name beginning with '.' hides that file or directory.  The command 'ls' lists all un-hidden items.  To modify that command to show the hidden files as well, write 'ls -a'.
 
 
-[Return to Table of Contents for Paul's Reading Notes](README.md "Go back to find more notes!")
+[Return to Table of Contents for Paul's Reading Notes](README "Go back to find more notes!")
 
 ---
 

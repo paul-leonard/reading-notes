@@ -1,10 +1,10 @@
 # Paul's Reading Notes
 
 ## Code 102 Table of Contents
-1. [Class 1:  Growth Mindset](growth_mindset.md "Click to see the notes!")
-1. [Class 2:  Coder's Computer](coders_computer.md "Click to see the notes!")
-1. [Class 3:  Revisions in the Cloud](revisions_in_the_cloud.md "Click to see the notes!")
-
+1. [Class 1:  Growth Mindset](growth_mindset "Click to see the notes!")
+1. [Class 2:  Coder's Computer](coders_computer "Click to see the notes!")
+1. [Class 3:  Revisions in the Cloud](revisions_in_the_cloud "Click to see the notes!")
+1. [Class 4:  Structure Web Pages with HTML](structure_page_html "Click to see the notes!")
 
 ---
 ## About Me

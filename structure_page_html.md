@@ -2,7 +2,25 @@
 
 ## Code 102
 
-### Revisions in the Cloud
+### Class 4:
+### Structure Web Pages with HTML
+
+#### HTML & CSS, Chapter 18:  Process & Design (read)
+
+
+
+#### HTML & CSS, Chapter 1:  Structure (skim)
+
+
+
+#### HTML & CSS, Chapter 17:  HTML5 Layout (read)
+
+
+
+#### HTML & CSS, Chapter 8:  Extra Markup (read)
+
+
+
 
 
 [Return to Table of Contents for Paul's Reading Notes](README "Go back to find more notes!")
