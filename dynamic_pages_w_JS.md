@@ -7,47 +7,11 @@
 **Reading Material for the Assignment**
 Duckett: JavaScript & jQuery, Pages 43 - 69.
 
+HTML, CSS, and JavaScript all work together to deliver a content filled, visually appealing, and dynamic webpage.  JavaScript provides the dynamic interaction of the page.  It can affect page content without changing the HTML code as demonstrated during the exercise on page 46 of the book.
 
-<!-- Helpful Reminders for Writing in Markdown  -->
+The next chapter taught us about components of code and their syntax.  The two largest were statements which are commands (or instructions) in the script (or code).  Comments that do not affect the script, but provide understandability to the human developer are also available.
 
-#### Heading 4
-##### Heading 5
-###### Heading 6
-
-**bold**
-*italics*
-
-paragraph
-
-unordered list
-- sdfsf
-- sdfsdf
-- sdfsd
-
-ordered list
-1. lsdjf
-1. sldkjf
-1. lskdjf
-
-'in_line_code'
-
-[Text_describing_image.](link_to_helpful_image)
-
-<!-- end/ Helpful Reminders for Writing in Markdown  -->
-
-
-#### Key Things to Remember
-1. takeaway
-1. takeaway
-
-
-
-
-***References***
-The reading material for these notes included the following:
-- [link](address)
-
-
+Variables are an important part of programming.  Much of the chapter was dedicated to them.  We learned how to declare them and assign them a value.  There are several different data types.  Depending on the data type, there are several different operations that can be executed on the variable.
 
 
 [Return to Table of Contents for Paul's Reading Notes](https://paul-leonard.github.io/reading-notes/ "Go back to find more notes!")
