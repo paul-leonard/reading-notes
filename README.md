@@ -4,7 +4,7 @@ This website is the central hub of all notes I have taken during my coursework a
 
 ## Table of Contents
 
-### Code 102 
+### Code 102 Reading Notes
 1. [Reading 1:  Growth Mindset](growth_mindset "Click to see the notes!")
 1. [Reading 2:  Coder's Computer](coders_computer "Click to see the notes!")
 1. [Reading 3:  Revisions in the Cloud](revisions_in_the_cloud "Click to see the notes!")
@@ -26,12 +26,12 @@ This website is the central hub of all notes I have taken during my coursework a
 1. Reading 7:  Notes coming soon!
 1. Reading 8:  Notes coming soon!
 1. Reading 9:  Notes coming soon!
-1. Reading 10:  Notes coming soon!)
-1. Reading 11:  Notes coming soon!)
-1. Reading 12:  Notes coming soon!)
-1. Reading 13:  Notes coming soon!)
-1. Reading 14:  Notes coming soon!)
-1. Reading 15:  Notes coming soon!)
+1. Reading 10:  Notes coming soon!
+1. Reading 11:  Notes coming soon!
+1. Reading 12:  Notes coming soon!
+1. Reading 13:  Notes coming soon!
+1. Reading 14:  Notes coming soon!
+1. Reading 15:  Notes coming soon!
 
 
 
