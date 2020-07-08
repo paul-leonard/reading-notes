@@ -6,25 +6,25 @@
 
 **Reading Material for the Assignment**
 1. Duckett: HTML & CSS
-- Chapter #:Title (pages #-#)
-- Chapter #:Title (pages #-#)
+- Chapter #:Title (pages )
+- Chapter #: (pages )
 2. Duckett: JavaScript & jQuery
-- Chapter #:Title: (pages #-#)
-- Chapter #:Title: (pages #-#)
+- Chapter #: (pages )
+- Chapter #: (pages )
 
 
 
 #### Duckett: HTML & CSS
 
 ##### Chapter 0: Introduction (pages 2-11)
-Brown background pages are **reference** and introduce key pieces of information and code.  Diagram and infographics are shown on a black background page.  Blue pages are chapter summaries.  There are 3 sections to the book: HTML, CSS, and Practical.
+sdfs
 
 
 
 #### Duckett: JavaScript & jQuery
 
 ##### Chapter 0: Introduction (pages 1-10)
-Brown background pages are **reference** and introduce key pieces of information and code.  Diagram and infographics are shown on a black background page.  There are summary pages at the end of each chapter.  There are 2 sections to the book: Core Concepts and Practical Applications.
+sdfs
 
 
 <!--  ************  Helpful Reminders for Writing in Markdown  ************  -->
