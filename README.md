@@ -17,10 +17,10 @@ This website is the central hub of all notes I have taken during my coursework a
 
 
 ### Code 201 Reading Notes
-1. [Reading 1:  Introductory HTML and JavaScript](code201read01 "Click to see the notes!")
-1. Reading 2:  Notes coming soon!
+1. [Reading 1:  Introductory HTML and JavaScript](class-01.md "Click to see the notes!")
+1. [Reading 2:  Basics of HTML CSS  JS](class-02.md "Click to see the notes!")
+1. [Reading 3:  HTML Lists, CSS Boxes, JS Control Flow](class-03.md "Click to see the notes!")
 1. Reading 4:  Notes coming soon!
-1. Reading 3:  Notes coming soon!
 1. Reading 5:  Notes coming soon!
 1. Reading 6:  Notes coming soon!
 1. Reading 7:  Notes coming soon!
