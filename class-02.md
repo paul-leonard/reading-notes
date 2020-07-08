@@ -51,23 +51,23 @@ Compares the value of two operands.
 
 Code | Use
 --- | ---
-'==' | Is equal to
-'===' | strict equal to
-'>' | greater than
-'<' | less than
-'!=' | is not equal to
-'!==' | strict not equal to
-'>=' | greater than or equal to
-'<=' | less than or equal to
+== | Is equal to
+=== | strict equal to
+> | greater than
+< | less than
+!= | is not equal to
+!== | strict not equal to
+>= | greater than or equal to
+<= | less than or equal to
 
 ###### Logical Operators
 Logical operators allow you to compare multiple comparison operators.
 
 Code | Use
 --- | ---
-'&&' | logical and
-'||' | logical or
-'!' | logical not
+&& | logical and
+|| | logical or
+! | logical not
 
 
 ***References***
