@@ -66,7 +66,7 @@ Logical operators allow you to compare multiple comparison operators.
 Code | Use
 --- | ---
 && | logical and
-|| | logical or
+\|\| | logical or
 ! | logical not
 
 
