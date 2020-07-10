@@ -18,7 +18,6 @@
 The HTML tag '<img>' is used to add image elements to web pages.  Two attributes must be included with every HTML image tag.  The first is the source attribute called 'src' and defines where the image is to be found.  The second is the 'alt' attribute which describes the content for screen readers to describe the image.  To shorten download speeds, the images should only be stored at the appropriate resolution and size that the website requires.  Format of the image is also important.  JPEG format is the best choice for photographs, while simpler logos or illustrations should be formated as GIFs.
 
 ##### Chapter #11: Color (pages 246-263)
-#### Colors
 Selecting color for your website is very important part of design.  There are many elements that can have colors defined and the color possibilities are endless.  The Adobe Color Wheel can help you choose a color scheme that provides appropriate contrast and is pleasing to the eye.  It can also make sure your website is accessible for colorblind people.  You can also change the Opacity of colors in CSS3.
 
 There are three ways you can define color:
