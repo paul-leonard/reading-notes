@@ -22,8 +22,8 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Reading 3:  HTML Lists, CSS Boxes, JS Control Flow](class-03 "Click to see the notes!")
 1. [Reading 4:  HTML Links, CSS Layout, JS Functions](class-04 "Click to see the notes!")
 1. [Reading 5:  Images, Color, Text](class-05 "Click to see the notes!")
-1. [Reading 6:  JS Object Literals; The DOM](class-06)
-1. Reading 7:  Notes coming soon!
+1. [Reading 6:  JS Object Literals; The DOM](class-06 "Click to see the notes!")
+1. [Reading 7:  HTML Tables; JS Constructor Functions](class-07 "Click to see the notes!")
 1. Reading 8:  Notes coming soon!
 1. Reading 9:  Notes coming soon!
 1. Reading 10:  Notes coming soon!
