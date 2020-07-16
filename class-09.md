@@ -51,53 +51,6 @@ Chapter #14: Lists, Tables, and Forms (pages 330-357)
 - *Binding* is linking an event and element
 
 
-<!--  ************  Helpful Reminders for Writing in Markdown  ************  -->
-
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-
-**bold**
-*italics*
-
-paragraph
-
-Unordered list:
-- itema
-- itemb
-- itemc
-
-Ordered list:
-1. item1
-1. item2
-1. item3
-
-'in_line_code'
-
-Table:
-Code | Use
---- | ---
-'&&' | and
-'||' | or
-'!' | not
-
-
-[Text_describing_image.](link_to_helpful_image)
-
-
-#### Key Things to Remember
-1. takeaway
-1. takeaway
-
-
-***References***
-- [link](address)
-
-
-<!--  ************  end/ Helpful Reminders for Writing in Markdown  ************  -->
 
 [Return to Table of Contents for Paul's Reading Notes](https://paul-leonard.github.io/reading-notes/ "Go back to find more notes!")
 
