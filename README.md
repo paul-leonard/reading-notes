@@ -27,7 +27,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Reading 8:  More CSS Layout](class-08 "Click to see the notes!")
 1. [Reading 9:  Forms and Events](class-09 "Click to see the notes!")
 1. [Reading 10:  JS Debugging](class-10)
-1. Reading 11:  Notes coming soon!
+1. [Reading 11:  Audio, Video, Images](class-11)
 1. Reading 12:  Notes coming soon!
 1. Reading 13:  Notes coming soon!
 1. Reading 14:  Notes coming soon!
