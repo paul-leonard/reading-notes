@@ -1,10 +1,8 @@
-# Paul's Reading Notes
+# Reading Notes
 
 This website is the central hub of all notes I have taken during my coursework at Code Fellows.  Notes are broken down based on class and reading assignment.  The notes offer a summary of the material covered in the textbooks and other resources.  I hope they prove a helpful resource to you.
 
-## Table of Contents
-
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 1. [Reading 1:  Growth Mindset](growth_mindset "Click to see the notes!")
 1. [Reading 2:  Coder's Computer](coders_computer "Click to see the notes!")
 1. [Reading 3:  Revisions in the Cloud](revisions_in_the_cloud "Click to see the notes!")
@@ -16,7 +14,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Reading 8:  Operators and Loops](operators_and_loops "Click to see the notes!")
 
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 1. [Reading 1:  Introductory HTML and JavaScript](class-01 "Click to see the notes!")
 1. [Reading 2:  Basics of HTML CSS  JS](class-02 "Click to see the notes!")
 1. [Reading 3:  HTML Lists, CSS Boxes, JS Control Flow](class-03 "Click to see the notes!")
@@ -31,8 +29,10 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Reading 12:  Docs for the HTML Element & Chart.js](class-12 "Click to see the notes!")
 1. [Reading 13:  Local Storage](class-13 "Click to see the notes!")
 
-### Code 301 Reading Notes
+## Code 301 - Intermediate Software Development (in progress)
 1. [Reading 1:  RESPONSIVE WEB DESIGN and FLOATS](C301R01 "Click to see the notes!")
+
+## Code 401 - Advanced Software Development (Class starts 11/7/2020)
 
 
 
@@ -40,4 +40,4 @@ This website is the central hub of all notes I have taken during my coursework a
 ## About Me
 Thank you for visiting my page of notes.  I hope they were helpful to you.  Please also check out [my GitHub portfolio page](https://github.com/paul-leonard "Paul's GitHub Portfolio").
 
-After graduating with a mechanical engineering degree from *Missouri University of Science and Technology* 13 years ago, I moved out to Seattle and started work at Boeing.  While there, I worked in airplane modifications, flight test, and flight controls design engineering.  I am super excited to return to a rich learning environment and gain some new programming skills.  I plan to complete the full course path ending with a specialty in Python.  I enjoy spending time outside by camping and hiking or having a beer at a brewery with friends (when that is a thing again).
+After graduating with a **mechanical engineering** degree from *Missouri University of Science and Technology* 13 years ago, I moved out to Seattle and started work at Boeing.  While there, I worked in **airplane modifications, flight test, and flight controls design engineering**.  I am super excited to return to a rich learning environment and gain some new programming skills.  I plan to complete the full course path ending with a specialty in **Python**.  I enjoy spending time outside by camping and hiking or having a beer at a brewery with friends (when that is a thing again).
