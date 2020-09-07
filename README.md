@@ -30,8 +30,6 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Reading 11:  Audio, Video, Images](class-11 "Click to see the notes!")
 1. [Reading 12:  Docs for the HTML Element & Chart.js](class-12 "Click to see the notes!")
 1. [Reading 13:  Local Storage](class-13 "Click to see the notes!")
-<!-- 1. Reading 14:  Notes coming soon!
-1. Reading 15:  Notes coming soon!  -->
 
 ### Code 301 Reading Notes
 1. [Reading 1:  RESPONSIVE WEB DESIGN and FLOATS](C301R01 "Click to see the notes!")
