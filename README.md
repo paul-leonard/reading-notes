@@ -32,6 +32,7 @@ This website is the central hub of all notes I have taken during my coursework a
 ## Code 301 - Intermediate Software Development (in progress)
 1. [Reading 1:  RESPONSIVE WEB DESIGN and FLOATS](C301R01 "Click to see the notes!")
 1. [jQuery, Events, The DOM, and Pair Programming](C301R02)
+1. [Flexbox and Templating](C301R03)
 
 ## Code 401 - Advanced Software Development (Class starts 11/7/2020)
 
