@@ -36,6 +36,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Responsive Web Design and Regular Expressions](C301R04)
 1. [Heroku Deployment](C301R05)
 1. [Node, Express, and APIs](C301R06)
+1. [APIs and REST](C301R07)
 
 
 ## Code 401 - Advanced Software Development (Class starts 11/7/2020)
