@@ -39,6 +39,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [APIs and REST](C301R07)
 1. [SQL](C301R08)
 1. [Refactoring and Functional Programming](C301R09)
+1. [The Call Stack and Debugging](C301R10)
 
 
 ## Code 401 - Advanced Software Development (Class starts 11/7/2020)
