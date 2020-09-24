@@ -43,6 +43,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Embedded JavaScript (EJS)](C301R11)
 1. [EJS Partials](C301R12)
 1. [Update/Delete | Sending Form Data](C301R13)
+1. [Database Normalization](C301R14)
 
 ## Code 401 - Advanced Software Development (Class starts 11/7/2020)
 
