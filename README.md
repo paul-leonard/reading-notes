@@ -29,8 +29,8 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Reading 12:  Docs for the HTML Element & Chart.js](class-12 "Click to see the notes!")
 1. [Reading 13:  Local Storage](class-13 "Click to see the notes!")
 
-## Code 301 - Intermediate Software Development (in progress)
-1. [Reading 1:  RESPONSIVE WEB DESIGN and FLOATS](C301R01 "Click to see the notes!")
+## Code 301 - Intermediate Software Development
+1. [RESPONSIVE WEB DESIGN and FLOATS](C301R01 "Click to see the notes!")
 1. [jQuery, Events, The DOM, and Pair Programming](C301R02)
 1. [Flexbox and Templating](C301R03)
 1. [Responsive Web Design and Regular Expressions](C301R04)
@@ -42,11 +42,12 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [The Call Stack and Debugging](C301R10)
 1. [Embedded JavaScript (EJS)](C301R11)
 1. [EJS Partials](C301R12)
-1. [Update/Delete : Sending Form Data](C301R13)
+1. [Update/Delete & Sending Form Data](C301R13)
 1. [Database Normalization](C301R14)
 1. [Diversity and Inclusion](C301R15)
 
-## Code 401 - Advanced Software Development (Class starts 11/7/2020)
+## Code 401 - Advanced Software Development (in progress))
+1. [Assorted Resources to Get Us Going!](C401R01 "Click to see the notes!")
 
 
 
