@@ -49,7 +49,8 @@ This website is the central hub of all notes I have taken during my coursework a
 ## Code 401 - Advanced Software Development (in progress))
 1. [Assorted Resources to Get Us Going!](C401R01 "Click to see the notes!")
 1. [Testing and Modules](C401R02)
-1. [FileIO & Exceptions](C401C03)
+1. [FileIO & Exceptions](C401R03)
+1. [Classes and Objects; Thinking Recursively; Pytest Fixtures and Coverage](C401R04)
 
 
 
