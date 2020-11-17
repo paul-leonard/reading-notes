@@ -53,6 +53,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Classes and Objects; Thinking Recursively; Pytest Fixtures and Coverage](C401R04)
 1. [Linked Lists](C401R05)
 1. [Random Numbers and Big O (Game of Greed 1)](C401R06)
+1. [Python Scope and Big O](C401R07)
 
 
 
