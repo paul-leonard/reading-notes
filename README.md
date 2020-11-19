@@ -54,7 +54,8 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Linked Lists](C401R05)
 1. [Random Numbers and Big O (Game of Greed 1)](C401R06)
 1. [Python Scope and Big O](C401R07)
-1. [List Comprehensions (Game of Greed 3)(C401R08)]
+1. [List Comprehensions (Game of Greed 3)](C401R08)
+1. [Dunder Methods and Statistics-Probability (Game of Greed 4)](C401R09)
 
 
 
