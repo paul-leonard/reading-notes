@@ -46,7 +46,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Database Normalization](C301R14)
 1. [Diversity and Inclusion](C301R15)
 
-## Code 401 - Advanced Software Development (in progress))
+## Code 401 - Advanced Software Development (in progress)
 1. [Assorted Resources to Get Us Going!](C401R01 "Click to see the notes!")
 1. [Testing and Modules](C401R02)
 1. [FileIO & Exceptions](C401R03)
@@ -58,6 +58,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Dunder Methods and Statistics-Probability (Game of Greed 4)](C401R09)
 1. [Stacks and Queues](C401R10)
 1. [Data Analysis (Jupyter Lab and Numpy)](C401R11)
+1. [Pandas](C401R12)
 
 
 
