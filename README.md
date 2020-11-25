@@ -59,6 +59,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Stacks and Queues](C401R10)
 1. [Data Analysis (Jupyter Lab and Numpy)](C401R11)
 1. [Pandas](C401R12)
+1. [Trees](C401R13)
 
 
 
