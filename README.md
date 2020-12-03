@@ -63,6 +63,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Linear Regressions](C401R16)
 1. [Data Visualization](C401R17)
 1. [Web Scraping](C401R18)
+1. [Automation](C401R19)
 
 
 
