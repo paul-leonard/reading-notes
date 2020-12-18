@@ -68,6 +68,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Django Models](C401R27)
 1. [Django CRUD and Forms](C401R28)
 1. [Django Custom User](C401R29)
+1. [Hash Tables](C401R30)
 
 
 
