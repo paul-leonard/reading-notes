@@ -72,6 +72,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Django REST Framework & Docker](C401R31)
 1. [Permissions & Postgresql](C401R32)
 1. [Authentication & Production Server](C401R33)
+1. [API Deployment](C401R36)
 
 
 
