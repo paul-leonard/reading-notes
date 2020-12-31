@@ -75,6 +75,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [API Deployment](C401R36)
 1. [Machine Learning Intro](C401R37)
 1. [Cryptography](C401R38)
+1. [DSA Review](C401R39)
 
 
 
