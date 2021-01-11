@@ -81,6 +81,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [React 3: NextJS](C401R43)
 1. [React 4: NextJS](C401R44)
 1. [Graphs](C401R45)
+1. [Pythonisms](C401R46)
 
 
 
