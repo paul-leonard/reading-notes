@@ -83,6 +83,7 @@ This website is the central hub of all notes I have taken during my coursework a
 1. [Graphs](C401R45)
 1. [Pythonisms](C401R46)
 1. [Ethics in Tech](C401R47)
+1. [Open-Source Software](C401R48)
 
 
 
